@@ -1,0 +1,4 @@
+d Instagram
+sudo chmod +x *
+sudo apt-get install python-pip
+pip3 install -t requirements.txt
